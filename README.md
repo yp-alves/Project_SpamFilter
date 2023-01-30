@@ -1,3 +1,3 @@
 # Project_SpamFilter
 
-In this project, we're going to create a spam filter that classifies new messages with an accuracy greater than 80% — so we expect that more than 80% of the new messages will be classified correctly as spam or ham(non-spam). To do that, we'll use the multinomial Naive Bayes algorithm along with a dataset of 5,572 SMS messages that are already classified by humans.
+This project creates a spam filter that classifies new messages as spam or not. The initial idea is to ensure that 80% of new messages are correctly classified as spam or ham(non-spam). For this, the Naive Bayes multinomial algorithm is used together with a dataset of 5,572 SMS messages previously classified by humans.
